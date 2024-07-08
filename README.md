@@ -11,10 +11,10 @@ The original code can be found [here](https://github.com/zisianw/FaceBoxes.PyTor
 This repository also contains the materials for Cloud Computing exam project [@uniparthenope](https://github.com/uniparthenope) a.y. 2023/2024 (paper submission, presentation and project implementation). 
 
 ### Authors 
-* [R. Esposito](https://github.com/RenatoEsposito1999)
+* R. Esposito (me)
 * [V. Mele](https://github.com/MeleVincenzo)
 * [A. Mungari](https://github.com/mungowz)
-* M. Giordano Orsini (me)
+* [M. Giordano Orsini](https://github.com/gomax22))
 * [M. Roscica](https://github.com/martirrrrr)
 * [S. Verrilli](https://github.com/StefanoVerrilli)
 
