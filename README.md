@@ -14,7 +14,7 @@ This repository also contains the materials for Cloud Computing exam project [@u
 * R. Esposito (me)
 * [V. Mele](https://github.com/MeleVincenzo)
 * [A. Mungari](https://github.com/mungowz)
-* [M. Giordano Orsini](https://github.com/gomax22))
+* [M. Giordano Orsini](https://github.com/gomax22)
 * [M. Roscica](https://github.com/martirrrrr)
 * [S. Verrilli](https://github.com/StefanoVerrilli)
 
